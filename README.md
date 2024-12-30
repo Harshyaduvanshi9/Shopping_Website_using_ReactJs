@@ -1,6 +1,6 @@
-[![Netlify Status](harshshopsite.netlify.app)]
 
-[Live Demo](harshshopsite.netlify.app)
+## Deployment Url- 
+https://shopping-website-using-react-js.vercel.app/
 
 # Getting Started with Create React App
 
